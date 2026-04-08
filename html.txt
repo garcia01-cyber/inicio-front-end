@@ -60,3 +60,39 @@ atributos booleanos
 <!--
   comando hidden faz titulo nao aparecer no site
   -->
+<!--
+abaixo voce nomeia algo pra usar no css ou java
+nao pode salvar varias com omesmo nome so uma pra caga tipo number part
+rd de elemento ou tap, nao é recomendado por numeros no começo
+nao letras especiais nem espaços use traço
+-->
+  <div id="nome"></div>
+<div id="nome2"></div>
+<!--
+  atributo class
+  "classifica"
+o cliente nao ve se usa no java dps
+usar um ou mais tipo de rg
+em amarelo e o rg ou part number citado acima
+-->
+<div class="produto calçado">tenis</div>
+<div class"produto roupa">camiseta</div>
+
+
+
+<!--
+o conteudo deste dado tambemé usado no java ou css
+voce pode pegar o conteudo atraves do nome aqui definido"id"
+
+  -->
+  <div data-id="8468486486"></div>
+
+
+
+
+  <!--
+so entender que existe mas preferir usa no css
+    -->
+
+
+    <div style="color:blue:">efwfew</div>
