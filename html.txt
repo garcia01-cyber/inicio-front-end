@@ -1,0 +1,62 @@
+<!--
+  comentario
+abertura tag
+fechamento de tag
+conteudo
+elementos
+atributos
+  -->
+<h1>titulo</h1>
+
+
+<p>
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit.&nbsp;  &nbsp; &nbsp; &nbsp;  Quidem soluta laudantium repudiandae, sint facere aliquid praesentium, 
+  <br/>
+<br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+  <br/>
+  dolor quae dignissimos quis maxime veniam aut eligendi doloremque fugit aliquam saepe rem sapiente?
+  <!--
+    fluxo html
+
+
+
+
+    -->
+    <p>
+      <p/>
+
+    <a href="#">link<a/>
+<!--
+  caracteres reservados
+  -->
+  <p>
+    &lt;p&gt;
+    <!--
+      adicionar imagem
+      -->
+
+
+<img src=" local da imagem" alt= "texto para a imagem">
+<br>
+<br>
+
+
+
+<a href="https://google.com " <a/>title="dsjgdjfsjf"
+
+
+
+
+<!--
+atributos booleanos
+- não precisam de conteudo
+-->
+<h1 hidden>titulo</a>
+<!--
+  comando hidden faz titulo nao aparecer no site
+  -->
